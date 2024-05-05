@@ -1,6 +1,6 @@
 ### Hi, I'm Kaah👋
 
-![Kaah92 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaah92&show_icons=true&theme=synthwave)
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Kaah92&show_icons=true&theme=synthwave"/>
 
 [![URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-almeida-84b157259/)
 [![URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ka_almeida92/)
