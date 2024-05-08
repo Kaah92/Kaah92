@@ -1,6 +1,6 @@
 ### Hi, I'm Kaah👋
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Kaah92&show_icons=true&theme=synthwave"/> <img aligh="right" alt="Programming" height="100" width="100" src="https://i.pinimg.com/474x/35/0e/47/350e4718bbaf6c27e386dc13b1a5491a.jpg"/> </div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Kaah92&show_icons=true&theme=synthwave"/> <img aligh="right" alt="Programming" height="100" width="100" src="https://i.pinimg.com/474x/29/e8/38/29e838bb7bee0574fe55484fba82c6f5.jpg"/> </div>
 
 ## Technology:
 <div style="display: inline_block"><br>
