@@ -5,7 +5,7 @@
 ## Technology:
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />     
+  <img align="center" alt="Intellij" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />     
 </div>
 
 ##
